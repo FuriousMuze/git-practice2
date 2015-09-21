@@ -1,2 +1,1 @@
-Hi, I am trying to make a merge conflict
-too
+
